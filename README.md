@@ -4,6 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@caiquecoelho-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@caiquecoelho)](https://medium.com/@caiquecoelho)
 [![Gmail Badge](https://img.shields.io/badge/-caiquedpfc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquedpfc@gmail.com)](mailto:caiquedpfc@gmail.com)
 
+
 ## ⚡ Projetos
 
 
@@ -25,7 +26,6 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CaiqueCoelho&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueCoelho&hide=TeX&layout=compact)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=CaiqueCoelho&theme=gruvbox)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=caiquecoelho&theme=gruvbox)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CaiqueCoelho.CaiqueCoelho)
