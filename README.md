@@ -23,6 +23,7 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+![Sentry](https://img.shields.io/badge/Sentry-red?style=flat-square&logo=sentry)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CaiqueCoelho&count_private=true&show_icons=true&include_all_commits=true)
