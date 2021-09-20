@@ -6,14 +6,14 @@
 
 
 ## ⚡ Projetos
-- Teste Eneagrama - Aplicativo Android de teste de perfil com mais de 100 mil downloads
-- Retrospectiva Twitter - PWA para realizar a retrospectiva do seus tweets em 2020 e em breve em 2021 com mais de 200 mil acessos
-- My Song - Recomendação de músicas baseadas no seu estilo utilizando IA e a API do Spotify
-- Meu Time BBB - Fantasy game, no qual as pessoas montam seus times com particopantes do BBB, com mais de 2.000 jogadores na última temporada
-- Prevendo os resultados do Oscar - Projeto utilizando IA para prever os vencedores do Oscar de cada ano
+- [Teste Eneagrama - Aplicativo Android de teste de perfil com mais de 100 mil downloads](https://play.google.com/store/apps/details?id=caiquecoelho.com.testeeneagrama&hl=pt_BR&gl=US)
+- [Retrospectiva Twitter - PWA para realizar a retrospectiva do seus tweets em 2020 e em breve em 2021 com mais de 200 mil acessos](https://retrospective-twitter.firebaseapp.com/)
+- [My Song - Recomendação de músicas baseadas no seu estilo utilizando IA e a API do Spotify](http://my-song-discovery.firebaseapp.com/)
+- [Meu Time BBB - Fantasy game, no qual as pessoas montam seus times com particopantes do BBB, com mais de 2.000 jogadores na última temporada](https://meu-time-bbb.firebaseapp.com/)
+- [Prevendo os resultados do Oscar - Projeto utilizando IA para prever os vencedores do Oscar de cada ano](https://github.com/CaiqueCoelho/Predict-Oscar)
 - [Prevendo a evolução do número de casos de COVID - Projeto utilizando IA para prever a evolução do número de casos de COVID-19 no Brasil](https://caiquecoelho.medium.com/prevendo-o-crescimento-de-casos-de-covid-19-coronavirus-no-brasil-com-an%C3%A1lise-de-dados-gr%C3%A1ficos-33ee525b62f8)
-- Horóscopo Diário - Skill da Alexa para saber informações sobre o seu horóscopo todos os dias com mais de 1.000 usuários únicos
-- Notícias de Hoje - Skill da Alexa com notícias recentes sobre tudo o que acontece no Brasil com mais de 15 mil usuários únicos
+- [Horóscopo Diário - Skill da Alexa para saber informações sobre o seu horóscopo todos os dias com mais de 1.000 usuários únicos](https://www.amazon.com.br/Caique-Coelho-Hor%C3%B3scopo-Di%C3%A1rio/dp/B07ZZN43V3)
+- [Notícias de Hoje - Skill da Alexa com notícias recentes sobre tudo o que acontece no Brasil com mais de 15 mil usuários únicos](https://www.amazon.com.br/Caique-Coelho-Not%C3%ADcias-de-Hoje/dp/B085GJV4M7/)
 
 
 ## ⚡ Technologies
