@@ -6,14 +6,14 @@
 
 
 ## ⚡ Projetos
-Teste Eneagrama - Aplicativo Android de teste de perfil com mais de 100 mil downloads
-Retrospectiva Twitter - PWA para realizar a retrospectiva do seus tweets em 2020 e em breve em 2021 com mais de 200 mil acessos
-My Song - Recomendação de músicas baseadas no seu estilo utilizando IA e a API do Spotify
-Meu Time BBB - Fantasy game, no qual as pessoas montam seus times com particopantes do BBB, com mais de 2.000 jogadores na última temporada
-Prevendo os resultados do Oscar - Projeto utilizando IA para prever os vencedores do Oscar de cada ano
-Prevendo a evolução do número de casos de COVID - Projeto utilizando IA para prever a evolução do número de casos de COVID-19 no Brasil (https://caiquecoelho.medium.com/prevendo-o-crescimento-de-casos-de-covid-19-coronavirus-no-brasil-com-an%C3%A1lise-de-dados-gr%C3%A1ficos-33ee525b62f8)
-Horóscopo Diário - Skill da Alexa para saber informações sobre o seu horóscopo todos os dias com mais de 1.000 usuários únicos
-Notícias de hoje - Skill da Alexa com notícias recentes sobre tudo o que acontece no Brasil com mais de 15 mil usuários únicos
+- Teste Eneagrama - Aplicativo Android de teste de perfil com mais de 100 mil downloads
+- Retrospectiva Twitter - PWA para realizar a retrospectiva do seus tweets em 2020 e em breve em 2021 com mais de 200 mil acessos
+- My Song - Recomendação de músicas baseadas no seu estilo utilizando IA e a API do Spotify
+- Meu Time BBB - Fantasy game, no qual as pessoas montam seus times com particopantes do BBB, com mais de 2.000 jogadores na última temporada
+- Prevendo os resultados do Oscar - Projeto utilizando IA para prever os vencedores do Oscar de cada ano
+- [Prevendo a evolução do número de casos de COVID - Projeto utilizando IA para prever a evolução do número de casos de COVID-19 no Brasil] (https://caiquecoelho.medium.com/prevendo-o-crescimento-de-casos-de-covid-19-coronavirus-no-brasil-com-an%C3%A1lise-de-dados-gr%C3%A1ficos-33ee525b62f8)
+- Horóscopo Diário - Skill da Alexa para saber informações sobre o seu horóscopo todos os dias com mais de 1.000 usuários únicos
+- Notícias de Hoje - Skill da Alexa com notícias recentes sobre tudo o que acontece no Brasil com mais de 15 mil usuários únicos
 
 
 ## ⚡ Technologies
