@@ -1,8 +1,8 @@
 ## Olar, bem-vindos a minha garagem de gambiarras <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-![Linkedin Badge](https://img.shields.io/badge/-caiquecoelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquecoelho(https://www.linkedin.com/in/caiquecoelho/)
-![Medium Badge](https://img.shields.io/badge/-@caiquecoelho-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@caiquecoelho)(https://medium.com/@caiquecoelho)
-![Gmail Badge](https://img.shields.io/badge/-caiquedpfc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquedpfc@gmail.com)(mailto:caiquedpfc@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-caiquecoelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquecoelho)](https://www.linkedin.com/in/caiquecoelho/)
+[![Medium Badge](https://img.shields.io/badge/-@caiquecoelho-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@caiquecoelho)](https://medium.com/@caiquecoelho)
+[![Gmail Badge](https://img.shields.io/badge/-caiquedpfc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquedpfc@gmail.com)](mailto:caiquedpfc@gmail.com)
 
 ## ⚡ Projetos
 
