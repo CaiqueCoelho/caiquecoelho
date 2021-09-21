@@ -7,7 +7,7 @@ If you have a cool project that involves quality software, software testing or a
 [![Gmail Badge](https://img.shields.io/badge/-caiquedpfc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquedpfc@gmail.com)](mailto:caiquedpfc@gmail.com)
 
 
-## ⚡ Projetos
+## ⚡ Projects
 - [Teste Eneagrama - Android app for personality test with over 100,000 downloads](https://play.google.com/store/apps/details?id=caiquecoelho.com.testeeneagrama&hl=pt_BR&gl=US)
 - [Retrospectiva Twitter - PWA for a retrospective of tweets in 2020 and soon in 2021 with more than 200 thousand users](https://retrospective-twitter.firebaseapp.com/)
 - [My Song - Music recommendation based on your style using AI and the Spotify API](http://my-song-discovery.firebaseapp.com/)
