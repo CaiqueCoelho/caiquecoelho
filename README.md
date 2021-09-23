@@ -5,6 +5,7 @@ If you have a cool project that involves quality software, software testing or a
 [![Linkedin Badge](https://img.shields.io/badge/-caiquecoelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquecoelho)](https://www.linkedin.com/in/caiquecoelho/)
 [![Medium Badge](https://img.shields.io/badge/-@caiquecoelho-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@caiquecoelho)](https://medium.com/@caiquecoelho)
 [![Gmail Badge](https://img.shields.io/badge/-caiquedpfc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquedpfc@gmail.com)](mailto:caiquedpfc@gmail.com)
+[![My Website](https://img.shields.io/badge/portfolio-my%20website-orange)](https://caiquecoelho.github.io/my-portfolio/)
 
 
 ## ⚡ Projects
