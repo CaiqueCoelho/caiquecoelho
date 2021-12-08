@@ -51,18 +51,4 @@ If you have a cool project that involves quality software, software testing or a
              title="Caique Coelho's Trophies"
         />
     </p>
-    <p align="center">
-      <a href="https://github.com/CaiqueCoelho/CaiqueCoelho/issues">
-        <img src="https://img.shields.io/github/issues/CaiqueCoelho/CaiqueCoelho" title="issues" alt="issues" /> 
-      </a>
-      <a href="https://github.com/CaiqueCoelho/CaiqueCoelho/network/members">
-        <img src="https://img.shields.io/github/forks/CaiqueCoelho/CaiqueCoelho" title="forks" alt="forks" /> 
-      </a>
-      <a href="https://github.com/CaiqueCoelho/CaiqueCoelho/stargazers">
-        <img src="https://img.shields.io/github/stars/CaiqueCoelho/CaiqueCoelho" title="stars" alt="stars" /> 
-      </a>
-       <a href="https://github.com/CaiqueCoelho/CaiqueCoelho/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/CaiqueCoelho/CaiqueCoelho" title="license" alt="license" /> 
-      </a>
-    </p>
 </div>
