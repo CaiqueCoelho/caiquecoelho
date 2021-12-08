@@ -41,3 +41,29 @@ If you have a cool project that involves quality software, software testing or a
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=caiquecoelho&langs_count=3)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CaiqueCoelho.CaiqueCoelho)
+
+<br/>
+<div>
+    <summary align="left"><strong><i>Lucas Magalhães's Trophies</i></strong> 🏆</summary>
+    <p align="center">
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=CaiqueCoelho&column=7&theme=gruvbox&margin-w=5&no-frame=true" 
+             width="100%"
+             title="Lucas Magalhães's Trophies"
+        />
+    </p>
+    <p align="center">
+      <a href="https://github.com/CaiqueCoelho/CaiqueCoelho/issues">
+        <img src="https://img.shields.io/github/issues/CaiqueCoelho/CaiqueCoelho" title="issues" alt="issues" /> 
+      </a>
+      <a href="https://github.com/CaiqueCoelho/CaiqueCoelho/network/members">
+        <img src="https://img.shields.io/github/forks/CaiqueCoelho/CaiqueCoelho" title="forks" alt="forks" /> 
+      </a>
+      <a href="https://github.com/CaiqueCoelho/CaiqueCoelho/stargazers">
+        <img src="https://img.shields.io/github/stars/CaiqueCoelho/CaiqueCoelho" title="stars" alt="stars" /> 
+      </a>
+       <a href="https://github.com/CaiqueCoelho/CaiqueCoelho/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/CaiqueCoelho/CaiqueCoelho" title="license" alt="license" /> 
+      </a>
+    </p>
+</div>
