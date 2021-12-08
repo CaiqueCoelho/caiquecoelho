@@ -44,12 +44,11 @@ If you have a cool project that involves quality software, software testing or a
 
 <br/>
 <div>
-    <summary align="left"><strong><i>Lucas Magalhães's Trophies</i></strong> 🏆</summary>
     <p align="center">
         <img 
              src="https://github-profile-trophy.vercel.app/?username=CaiqueCoelho&column=7&theme=gruvbox&margin-w=5&no-frame=true" 
              width="100%"
-             title="Lucas Magalhães's Trophies"
+             title="Caique Coelho's Trophies"
         />
     </p>
     <p align="center">
