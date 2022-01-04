@@ -39,6 +39,7 @@ If you have a cool project that involves quality software, software testing or a
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CaiqueCoelho&count_private=true&show_icons=true&include_all_commits=true)
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=caiquecoelho&langs_count=3)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiqueCoelho&" alt="CaiqueCoelho" /></p>
 
 <br/>
 <div>
