@@ -22,6 +22,11 @@ If you have a cool project that involves quality software, software testing or a
 ## ⚡ Technologies
 
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-black?style=flat-square&logo=robotframework)
+![Appium](https://img.shields.io/badge/Appium-black?style=flat-square&logo=appium)
+![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium)
+![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-white?style=flat-square&logo=saucelabs)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-white?style=flat-square&logo=browserstack)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -36,7 +41,7 @@ If you have a cool project that involves quality software, software testing or a
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Jenkins](https://img.shields.io/badge/Jenkis-red?style=flat-square&logo=jenkis)
-![Github Actions](https://img.shields.io/badge/Github%Actions-white?style=flat-square&logo=githubactions)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-white?style=flat-square&logo=githubactions)
 ![Drone](https://img.shields.io/badge/Drone-black?style=flat-square&logo=drone)
 ![Metabase](https://img.shields.io/badge/Metabase-blue?style=flat-square&logo=metabase)
 ![AWS](https://img.shields.io/badge/AWS-white?style=flat-square&logo=amazon)
