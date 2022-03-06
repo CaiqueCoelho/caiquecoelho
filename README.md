@@ -36,10 +36,10 @@ If you have a cool project that involves quality software, software testing or a
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Jenkins](https://img.shields.io/badge/Jenkis-red?style=flat-square&logo=jenkis)
-![Github Actions](https://img.shields.io/badge/Gha-white?style=flat-square&logo=githubactions)
+![Github Actions](https://img.shields.io/badge/GithubActions-white?style=flat-square&logo=githubactions)
 ![Drone](https://img.shields.io/badge/Drone-black?style=flat-square&logo=drone)
 ![Metabase](https://img.shields.io/badge/Metabase-blue?style=flat-square&logo=metabase)
-![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=aws)
+![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazon)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CaiqueCoelho&count_private=true&show_icons=true&include_all_commits=true)
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=caiquecoelho&langs_count=3)
