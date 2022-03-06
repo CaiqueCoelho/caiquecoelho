@@ -36,8 +36,8 @@ If you have a cool project that involves quality software, software testing or a
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Jenkins](https://img.shields.io/badge/Jenkis-red?style=flat-square&logo=jenkis)
-![Github Actions](https://img.shields.io/badge/Gha-red?style=flat-square&logo=gha)
-![Drone](https://img.shields.io/badge/Drone-white?style=flat-square&logo=drone)
+![Github Actions](https://img.shields.io/badge/Gha-white?style=flat-square&logo=githubactions)
+![Drone](https://img.shields.io/badge/Drone-black?style=flat-square&logo=drone)
 ![Metabase](https://img.shields.io/badge/Metabase-blue?style=flat-square&logo=metabase)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=aws)
 
