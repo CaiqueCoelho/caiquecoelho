@@ -1,5 +1,6 @@
-## Hello, welcome to my garage of ideas and gambiarras(workarounds) <img src="https://github.com/CaiqueCoelho/CaiqueCoelho/blob/master/wave.gif" height=
-"10px" width="10px">
+## Hello, welcome to my garage of ideas and gambiarras(workarounds) 
+
+<img src="https://github.com/CaiqueCoelho/CaiqueCoelho/blob/master/wave.gif" height="10px" width="10px">
 
 If you have a cool project that involves quality software, software testing or artificial intelligence, let's talk!
 
